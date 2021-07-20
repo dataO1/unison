@@ -1,8 +1,0 @@
-name: unison-codebase-sync
-github: unisonweb/unison
-
-library:
-  source-dirs: .
-
-dependencies:
-  - base
